@@ -8,7 +8,7 @@ I am currently looking for my first opportunity in the technology industry to st
 - 🌱 I’m currently learning Harvard's CS50x course online - furthering my understanding of lower level languages. Also planning to complete understanding node.js and learn as many languages and technologies I can.
 - 👯 I’m looking to collaborate on any projects that I can learn from - whether that's from the people involved or the technologies involved!
 - 💬 Ask me about my favourite foods, restauraunts, PC builds, the Carboniferous Era or my dog, Obi.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jack-gloyer/) | Email (jackgloyer8@gmail.com  |
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jack-gloyer/) | Email: jackgloyer8@gmail.com  |
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I own 2 ducks, they live near a vineyard and help with pest control in harvest season 🦆
 
