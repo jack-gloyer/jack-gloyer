@@ -1,6 +1,6 @@
-## About me 👀
+## I'm Jack, Web Dev 👀
 
-I'm Jack, recent grad from Dev Academy Aotearoa. I have experience with React.js, TypeScript, SQLite (Knex), auth0, CSS and HTML.
+A recent grad from Dev Academy Aotearoa. I have experience with React.js, TypeScript, SQLite (Knex), auth0, CSS and HTML.
 With a background working as a chef in restauraunts around Auckland, Waiheke Island and Brisbane, I bring a strong sense of communication and collaboration to any team project.
 Currently looking for my first opportunity in the technology industry to start my new career.
 
