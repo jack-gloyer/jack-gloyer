@@ -15,6 +15,13 @@ Currently looking for my first opportunity in the technology industry to start m
 # Familiar with, but still learning
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=react,git,sqlite,js,ts,html,css,npm,sass,tailwind" />
+  </a>
+</p>
+
+# Looking to learn these in the future
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c, c#,java,python,nodejs,nextjs,postgres,py," />
   </a>
 </p>
