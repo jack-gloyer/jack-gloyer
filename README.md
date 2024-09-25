@@ -22,6 +22,6 @@ Currently looking for my first opportunity in the technology industry to start m
 # Looking to learn these in the future
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c#,java,python,nodejs,nextjs,postgres,py," />
+    <img src="https://skillicons.dev/icons?i=c,cs,java,python,nodejs,nextjs,postgres,py," />
   </a>
 </p>
