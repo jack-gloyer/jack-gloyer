@@ -12,3 +12,4 @@ Currently looking for my first opportunity in the technology industry to start m
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I own 2 ducks, they live near a vineyard and help with pest control in harvest season 🦆
 
+# Skills I have
